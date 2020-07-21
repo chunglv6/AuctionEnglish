@@ -102,4 +102,8 @@ module.exports = {
 
 thay doi 2
 thay doi 3
+<<<<<<< HEAD
  thay doi 5
+=======
+thay doi 4
+>>>>>>> d4709f96f2d089d93e21048a94a0e82af8e16de2
