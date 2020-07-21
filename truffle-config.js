@@ -100,6 +100,3 @@ module.exports = {
 
 
 
-chunglv6  sdfgsadgsagsdgsdgfsdgsdgsdgsgsg
-sgsgasggsgs
-sgsaggagdg
